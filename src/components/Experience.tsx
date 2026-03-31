@@ -62,9 +62,7 @@ const timeline = [
     period: "2021 – 2025",
     location: "Pune, India",
     bullets: [
-      "CGPA: 9.0",
-      "Ranked #10 in DAPP competition at Dapp World out of hundreds of participants.",
-      "Shortlisted in Top 20 candidates at DevFest Noida for AI-focused development challenge.",
+      "CGPA: 9.0"
     ],
     tags: ["Computer Science", "Algorithms", "Distributed Systems"],
   },
